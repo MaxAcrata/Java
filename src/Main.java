@@ -3,7 +3,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        int eaters = -5; // сколько людей будут есть
+        int eaters = 5; // сколько людей будут есть
 
         int water = 3000; // миллилитров воды
         int potatoes = 5; // картофелин
